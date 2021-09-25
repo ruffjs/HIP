@@ -132,11 +132,11 @@ Both Helium and RAK hotspots are (presumably) running the same miner software as
 
 ## How To Apply
 
-Interested manufacturers should:
+Interested manufacturers should visit the [dewi-alliance/hotspot-manufacturers](https://github.com/dewi-alliance/hotspot-manufacturers/) repository, which contains instructions on how to submit an application and tracking issues for in-progress applications.
 
-* Make a copy of the [TEMPLATE.md](./0019-third-party-manufacturers/TEMPLATE.md) file in this repository and put it in the same directory, i.e. `0019-third-party-manufacturers/name-of-your-company.md`
+* Make a copy of the `TEMPLATE.md` file
 * Fill it out; if you have questions or concerns about a particular question, just leave it blank and ask on GitHub or on Discord.
-* Submit a pull request
+* Submit a GitHub pull request
 * Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in [HIP7](https://github.com/helium/HIP/blob/master/0007-managing-hip-process.md).
 
 Sensitive information like financials or proofs of identity could be furnished to members of both Helium Inc. and the Decentralized Wireless Alliance (DeWi) and attested publicly, via the HIP document, GitHub comments, or otherwise.
@@ -144,13 +144,14 @@ Sensitive information like financials or proofs of identity could be furnished t
 ## Summary of Application Process
 
 1. Submit application
-2. FCC/CE or other application radio certification
-3. Hardware audit
-4. Onboarding integration
-5. Community approval
-6. Pre-orders
+2. DeWi KYC/B
+3. FCC/CE or other application radio certification
+4. Hardware audit
+5. Onboarding integration
+6. Manufacturing Oversight Committee approval
+7. Pre-orders
 
-*note: items 2-4 can occur simultaneously*
+*note: items 3-4 can occur simultaneously*
 
 # Drawbacks
 
